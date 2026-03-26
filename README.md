@@ -1,2 +1,5 @@
-# Quantium starter repo
-This repo contains everything you need to get started on the program! Good luck!
+Forked and cloned the starter repo
+Set up a Python virtual environment
+Installed dash, pandas, and dash[testing]
+Generated a requirements.txt
+Pushed everything to GitHub
